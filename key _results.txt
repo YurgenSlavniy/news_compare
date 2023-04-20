@@ -1,0 +1,10 @@
+{'date':'20.04.2023', 
+'all_resurses': 0,
+'total_rows': 0, 
+'countries_with_news': 0,
+'web_resurse_active': 4,
+'telegram_bot': 0, 
+'logs': 0,
+'steps': 15,
+'end_steps' : 8
+}
